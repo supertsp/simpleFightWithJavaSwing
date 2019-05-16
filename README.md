@@ -1,2 +1,2 @@
 # simpleFightWithJavaSwing
-A simple demostration of import Icon with Java
+A demonstration of how to dynamically import Icons in Java with Swing
